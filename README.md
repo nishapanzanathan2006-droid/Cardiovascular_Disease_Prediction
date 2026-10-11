@@ -1,6 +1,5 @@
 # Cardiovascular_Disease_Prediction
 Cardiovascular disease prediction using Python and Logistic Regression
-# Cardiovascular Disease Prediction
 
 ## Project Overview
 This project uses Machine Learning to predict the presence of heart disease based on patient health-related features.
